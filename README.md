@@ -1,14 +1,28 @@
 #TITANIC DATASET ANALYSIS
 ## Table of Content
-###Project Overview
--[data](#data)
+ [Project Overview](#Project-Overview)
+
+-[tools](#tools)
+
 -[Exploratory Data Analysis](#exploratory-Data-Analysis)
+
 -[Data Analysis](#data-analysis)
+
+[Insights & Key Findings](#Insights-Key-Findings)
+
+ [Recommendations ](#recommendations )
+ 
+ [Limitations](#limitations)
+ 
+ [References](#references)
+ 
+###Project Overview
 
 The analysis focuses on understanding survival patterns based on passenger demographics, travel class, and family groups.
 All data cleaning, analysis, and visualization were performed in Excel without external tools.
 Data Sources
-Titanic dataset: the primary dataset used for this analysis “titanic dataset csv” file containing detailed information about those on board 
+Titanic dataset: the primary dataset used for this analysis “titanic dataset csv” file containing detailed information about those on board
+
 ### Tools
 -	Excel
 -[DOWNLOAD HERE](https://www.kaggle.com/datasets/brendan45774/test-file)
@@ -48,6 +62,8 @@ Handled missing age and embarkation values.
 1. Many records have missing values which reduces accuracy.
 2. Grouping variables like “Age group” or “Family group” introduces assumptions that may not fully capture survival behavior.
    
+References
+[kaggle]( https://www.kaggle.com/datasets/brendan45774/test-file)
 
 
    
