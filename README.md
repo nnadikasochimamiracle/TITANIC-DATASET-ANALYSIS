@@ -1,14 +1,14 @@
 #TITANIC DATASET ANALYSIS
 ## Table of Content
- [Project Overview](#Project-Overview)
+ [Project Overview](#project-overview)
 
 -[tools](#tools)
 
--[Exploratory Data Analysis](#exploratory-Data-Analysis)
+-[Exploratory Data Analysis](#exploratory-data-analysis)
 
 -[Data Analysis](#data-analysis)
 
-[Insights & Key Findings](#Insights-Key-Findings)
+ [Insights & Key Findings](insights&key-findings)
 
  [Recommendations ](#recommendations )
  
